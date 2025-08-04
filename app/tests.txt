@@ -1,0 +1,13 @@
+DEBUG: 3
+INFO: 2
+WARNING: 1
+ERROR: 0
+error: will not work, will be INFO
+[ERROR]: also will not work
+[ERROR:] -//-
+
+this messages will be INFO
+INFO: before: after
+before: after (will be only after)
+
+exit
